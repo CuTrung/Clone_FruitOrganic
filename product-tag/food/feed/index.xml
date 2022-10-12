@@ -12,7 +12,7 @@
 	<atom:link href="https://cutrung.github.io/Clone_FruitOrganic/product-tag/food/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cutrung.github.io/Clone_FruitOrganic</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 05 Oct 2022 03:17:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Oct 2022 01:02:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Lemon</title>
+		<link>https://cutrung.github.io/Clone_FruitOrganic/product/lemon/</link>
+					<comments>https://cutrung.github.io/Clone_FruitOrganic/product/lemon/#respond</comments>
+		
+		<dc:creator><![CDATA[cuphanthanhtrung]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:25:42 +0000</pubDate>
+				<guid isPermaLink="false">https://cutrung.github.io/Clone_FruitOrganic/?post_type=product&#038;p=534</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.
+
+Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.]]></description>
+										<content:encoded><![CDATA[<p>Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://cutrung.github.io/Clone_FruitOrganic/product/lemon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Fresh vegetable</title>
 		<link>https://cutrung.github.io/Clone_FruitOrganic/product/fresh-vegetable/</link>
 					<comments>https://cutrung.github.io/Clone_FruitOrganic/product/fresh-vegetable/#respond</comments>
